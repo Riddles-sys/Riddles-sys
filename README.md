@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riddles-sys
+- 👋 Hi, I’m Ridwan ^_^
 - 👀 I’m interested in learning about coding
 - 🌱 I’m currently learning from the beginning
 - 💞️ I’m looking to collaborate on web development.
