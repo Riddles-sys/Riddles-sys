@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Ridwan ^_^
+<!-- - 👋 Hi, I’m Ridwan ^_^
 - 🧑‍💻 You can view my pinned project repos
 - 👀 I’m interested in learning about coding
 - 🌱 I’m currently learning from the beginning
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: ridwan.arshad90@gmail.com
 
-
+ -->
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
 <h3 align="center">A passionate full-stack developer from London, UK</h3>
 
