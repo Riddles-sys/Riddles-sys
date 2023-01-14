@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
 <h3 align="center">A passionate full-stack developer from London, UK</h3>
 
-- 🎓 I've completed a Software Engineering Immersive course at General Assembly and an MSc in Experimental Psychology.
+- 🎓 I've completed a Software Engineering Immersive course at General Assembly and an MSc in Experimental Psychology and a background in Clinical Research. 	:ledger:
 
 - 🔭 I’m currently working on **a vanilla JS Blackjack game.** 	:heavy_check_mark:
 
