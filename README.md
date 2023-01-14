@@ -11,7 +11,7 @@
 
 - 🎓 I've completed a Software Engineering Immersive course at General Assembly and an MSc in Experimental Psychology.
 
-- 🔭 I’m currently working on **a vanilla JS Blackjack game.**
+- 🔭 I’m currently working on **a vanilla JS Blackjack game.** 	:heavy_check_mark:
 
 - 🌱 I’m currently learning **TypeScript**
 
