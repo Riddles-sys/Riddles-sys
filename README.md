@@ -19,7 +19,7 @@
 
 - 💞️ I’m completing the 100DaysOfCode challenge.
 
-- 👨‍💻 All of my projects are available at [https://ridwan-arshad.vercel.app/](https://ridwan-arshad.vercel.app/)
+- 👨‍💻 All of my main projects can be found at [https://ridwan-arshad.vercel.app/](https://ridwan-arshad.vercel.app/)
 
 
 - 📫 How to reach me **ridwan.arshad90@gmail.com**
