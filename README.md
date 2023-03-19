@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **a vanilla JS Blackjack game.** 	:heavy_check_mark:
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Python**
 
 - 👀 I'm looking to learn **AWS and Serverless**
 
